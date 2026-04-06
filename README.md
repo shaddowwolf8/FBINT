@@ -24,9 +24,9 @@ FBINT is a Python tool to scan social media platforms for usernames, fetch profi
 ```bash
 git clone https://github.com/shaddowwolf8/FBINT.git
 cd FBINT
-Install the required dependencies:
+2. Install the required dependencies:
 pip install -r requirements.txt
-Usage
+3. Usage
 Run the script:
 python fbint.py
 Enter the target name when prompted.
