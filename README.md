@@ -28,7 +28,7 @@ cd FBINT
 pip install -r requirements.txt
 3. Usage
 Run the script:
-python fbint.py
+python osint.py
 Enter the target name when prompted.
 Wait for the scan to complete — found profiles will be displayed in the terminal.
 After scanning, an interactive HTML graph will open in your default browser.
